@@ -1,0 +1,5 @@
+#N canvas 318 191 1299 780 10;
+#X obj 228 61 inlet notes;
+#X obj 46 61 inlet knob1;
+#X obj 136 61 inlet knob2;
+#X obj 518 61 inlet print-toggle;
